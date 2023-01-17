@@ -1,4 +1,4 @@
-# stardrifter
+# Stardrifter
 
 Hobby project retrogame for Commodore VIC 20
 
